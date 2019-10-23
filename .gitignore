@@ -1,0 +1,10 @@
+/.idea
+/node_modules
+/webpack.config.js
+/webpack.dev.config.js
+/webpack.prod.config.js
+/config.prod.json
+/config.dev.json
+/yarn-error.log
+/server.js
+/public

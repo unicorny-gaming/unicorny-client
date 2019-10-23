@@ -1,0 +1,2 @@
+export const SOCKET_CONNECTED = "SOCKET_CONNECTED"
+export const ONE_SECOND = 1000

@@ -1,0 +1,11 @@
+{
+    "tokenName": "access-token",
+    "userApiBase": "https://api.unicorny.ru/userapi",
+    "authUrl": "http://api.unicorny.ru/auth/?service=steam&successUrl=http%3A%2F%2Funicorny.ru%2Fauth?to={url}",
+    "logoutUrl": "http://api.unicorny.ru/auth/logout",
+    "socketOptions": {
+        "port": "9000"
+    },
+    "expressSecret": "abcdefghjklmnop123456789",
+    "steamApiKey": "ABCDEFGHJKLMNOP1234567890"
+}
