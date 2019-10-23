@@ -50,14 +50,14 @@ class Navbar extends React.Component {
           <ReactBootstrap.Nav>
           <NavLinks />
           </ReactBootstrap.Nav>
-        </ReactBootstrap.Navbar>       
+        </ReactBootstrap.Navbar>
         <header id="header">
           <div className="container">
             <div className="navbar-backdrop">
               <div className="navbar">
                 <a className="navbar-toggle" onClick={this.toggleNavbar}><i className="fa fa-bars"></i></a>
                 <div className="navbar-left">
-                  <a href="/" className="logo" onClick={this.goHome}><img src="/themes/dszone/img/dslogo.png" alt="DSZone.UR - Deep Into Games" /></a>
+                  <a href="/" className="logo" onClick={this.goHome}><h1>unicorny.ru</h1> <sub>made for fun</sub></a>
                     <NavLinks />
                   </div>
 
