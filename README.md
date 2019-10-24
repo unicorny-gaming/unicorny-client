@@ -23,12 +23,12 @@ All of them have example version, which is usefull for most users. You can simpl
 $ yarn start
 ```
 6. Open your browser at `http://localhost:8888` by default and look at this!
-7. Also you can try to open [my site](http:://unicorny.ru), but sometimes its not working =)
+7. Also you can try to open `http:://unicorny.ru`, but sometimes its not working =)
 
 ### Todos
 
  - Write Tests
- - Implement support for all server APIs (will be published soon).
+ - Implement support for all server APIs (look here: `http://doc.unicorny.ru/`).
  - Set up CSGO servers for test.
 
 License
