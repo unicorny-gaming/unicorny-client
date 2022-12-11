@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "babel-preset-env": "^1.6.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.3",
     "fetch-on-rest": "^2.0.4",
     "query-string": "^4.3.4",
